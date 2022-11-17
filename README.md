@@ -1,2 +1,2 @@
 # GitTest
-Testing Github actions 
+Testing Github actions for workflows.
